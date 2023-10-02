@@ -1,0 +1,18 @@
+@media (max-width:1023px){
+    .noticias{
+        flex-direction: column;
+    }
+
+}
+
+@media(max-width:768px){
+    .titulo-carousel{
+        top: 80px;
+    }
+    .ubicacion{
+        margin-top: 20px;
+    }
+    .ratio{
+        margin-bottom: 20px;
+    }
+}
