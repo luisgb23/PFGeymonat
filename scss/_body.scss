@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+
 }
 
 h3{
@@ -13,11 +14,14 @@ h3{
 .titulo{
     @include fuente;
     color: $color-verde;
+    margin-bottom: 40px;
+    font-size: 50px;
 }
 
 .subtitulo{
     @include fuente;
     color: $color-verde;
+    margin-top: 20px;
 }
 
 .redes{
